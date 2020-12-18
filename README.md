@@ -5,7 +5,6 @@ In this project you will see the following technologies:
 Django
 Redis
 Celery
-JQuery
 ```
 The payment method is also implemented here using the [Braintree](https://www.braintreepayments.com/) payment system
 
